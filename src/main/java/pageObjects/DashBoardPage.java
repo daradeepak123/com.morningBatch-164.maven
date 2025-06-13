@@ -35,9 +35,4 @@ public class DashBoardPage {
 		System.out.println(data);
 	}
 	
-	
-	
-	
-	
-
 }
